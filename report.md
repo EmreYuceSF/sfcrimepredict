@@ -1,6 +1,6 @@
 
 
-```markdown
+
 ![San Francisco Crime Scene](images/DALL·E_2024-11-26_San_Francisco_Prison_Bars.webp.jpeg)
 
 # San Francisco Crime Prediction System
@@ -100,6 +100,5 @@ The final model successfully generates daily crime predictions, which, while not
 
 ---
 
-This project has deepened my understanding of crime trends and predictive modeling. I look forward to exploring new approaches to enhance the system and its practical applications.
-``` 
+
 
