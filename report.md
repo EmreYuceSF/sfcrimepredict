@@ -83,7 +83,7 @@ I conducted the analysis and built machine learning models using Python. After t
 | Neural Network            | 4.26  | 1.29  | 0.580 |
 | XGBoost Regressor         | 4.15  | 1.27  | **0.591** |
 
-![prediction](prediction.png)
+
 ### **Selected Model: XGBoost**
 XGBoost outperformed other models, achieving the highest R² score and the lowest errors.
 
