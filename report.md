@@ -1,7 +1,7 @@
 
 
 
-![San Francisco Crime Scene](DALL·E 2024-11-26 12.18.42 - A surreal scene showing the iconic skyline of San Francisco obscured by tall, imposing prison bars that stretch from the ground to the sky. The Transa.webp)
+![San Francisco Crime Scene][DALL·E 2024-11-26 12.18.42 - A surreal scene showing the iconic skyline of San Francisco obscured by tall, imposing prison bars that stretch from the ground to the sky. The Transa.webp]
 
 # San Francisco Crime Prediction System
 
