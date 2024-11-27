@@ -1,7 +1,7 @@
 
 
 
-![San Francisco Crime Scene](images/DALL·E_2024-11-26_San_Francisco_Prison_Bars.webp.jpeg)
+![San Francisco Crime Scene](images/DALL·E_2024-11-26_San_Francisco_Prison_Bars.webp)
 
 # San Francisco Crime Prediction System
 
